@@ -5,5 +5,5 @@ menutitle: CV
 ---
 
 
-You can find my CV [here](https://sungjuwu.github.io/CV_sungjuwu.pdf).
+You can find my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank">here</a>.
 
