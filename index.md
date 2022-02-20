@@ -7,4 +7,4 @@ menuorder: 1
 
 **Hi! Welcome to my website.**
 
-I am a PhD Candidate at Duke University. My research interests include international trade, development, and political economy.
+I am a PhD Candidate in Economics at Duke University. My research interests include international trade, development, and political economy.
