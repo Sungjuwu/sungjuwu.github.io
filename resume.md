@@ -7,12 +7,11 @@ menutitle: CV
 
 You can download my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
 
-## Currently
+### Currently
 
-Ph.D. Candidate in Economics, Duke University
-(Expected graduation: 2024)
+__Duke University__ Ph.D. Candidate, Economics (Expected Graduation: 2024)
 
-## Education
+### Education
 
 `2018`
 __National Taiwan University__
@@ -22,13 +21,14 @@ M.A., Economics
 __National Taiwan University__
 B.A., Economics 
 
-## Work in Progress
+### Work in Progress
 
 1. “The Dynamics of Global Production”
 
-## Working Papers
+### Working Papers
 
 1. “Firm and Labor Adjustment to FDI Liberalization”
+
 2. “Brokers and the Politics of Economic Engagement”
 
 
