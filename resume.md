@@ -5,5 +5,6 @@ menutitle: CV
 ---
 
 
-You can find my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
+You can download my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
 
+<object data="https://sungjuwu.github.io/CV_sungjuwu.pdf" width="1000" height="1000" type='application/pdf'></object>
