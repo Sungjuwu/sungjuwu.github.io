@@ -7,11 +7,6 @@ menutitle: CV
 
 You can download my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
 
----
-layout: resume
-menuorder: 3
-menutitle: Resume
----
 ## Currently
 
 Ph.D. Candidate in Economics, Duke University
