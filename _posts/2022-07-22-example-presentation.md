@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Annual Conference of the International Association for Applied Econometrics (IAAE)
+excerpt: King's Business School, London, UK
 # theme: simple
 transition: convex
 tags: [presentation]
