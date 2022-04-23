@@ -5,6 +5,8 @@ menuorder: 2
 excerpt: "Recent Presentations"
 ---
 
+Here is a list of my upcoming conference presentations.
+
 # 2022
 
 ## June
