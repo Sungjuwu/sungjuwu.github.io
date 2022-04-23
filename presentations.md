@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 menutitle: Presentations
 menuorder: 2
 excerpt: "Recent Presentations"
