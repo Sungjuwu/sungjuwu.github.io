@@ -5,20 +5,20 @@ menutitle: CV
 ---
 
 
-You can download my CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
+You can download my complete CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
 
 ## Currently
 
-__Duke University__ Ph.D. Candidate, Economics (Expected Graduation: 2024)
+__Duke University__\ Ph.D. Candidate, Economics (Expected Graduation: 2024)
 
 ## Education
 
 `2018`
-__National Taiwan University__
+__National Taiwan University__\
 M.A., Economics
 
 `2015`
-__National Taiwan University__
+__National Taiwan University__\
 B.A., Economics 
 
 ## Work in Progress
