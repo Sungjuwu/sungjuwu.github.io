@@ -15,8 +15,7 @@ Ph.D. Candidate, Economics (Expected Graduation: 2024)
 ## Education
 __Duke University__\
 `2021`
-M.A., Economics\
-
+M.A., Economics
 
 __National Taiwan University__\
 `2018`
@@ -26,8 +25,7 @@ B.A., Economics
 
 __University of Mannheim__\
 `2013-2014`
-Exchange Program, Social Science\
-
+Exchange Program, Social Science
 
 ## Work in Progress
 
