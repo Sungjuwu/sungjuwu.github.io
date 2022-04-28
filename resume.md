@@ -17,6 +17,7 @@ __Duke University__\
 `2021`
 M.A., Economics\
 
+
 __National Taiwan University__\
 `2018`
 M.A., Economics\
@@ -26,6 +27,7 @@ B.A., Economics
 __University of Mannheim__\
 `2013-2014`
 Exchange Program, Social Science\
+
 
 ## Work in Progress
 
