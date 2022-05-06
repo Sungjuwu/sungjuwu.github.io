@@ -18,6 +18,6 @@ King's Business School, London
 George Washington University, Washington D.C.
 
 ## August
-<a href="https://ies.keio.ac.jp/ames2022/" target="_blank">**Asian Meeting of the Econometric Society in East and South-East Asia**</a>\
+<a href="https://ies.keio.ac.jp/ames2022/" target="_blank">**Asian Meeting (East and South-East Asia) of the Econometric Society**</a>\
 Keio University & University of Tokyo, Tokyo
 
