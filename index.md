@@ -9,4 +9,4 @@ menuorder: 1
 
 I am a PhD Candidate in Economics at Duke University. My research interests include international trade, development, and political economy.
 
-You can reach me by <a href = "mailto: sungju.wu@duke.edu">sungju.wu@duke.edu</a>.
+You can reach me via <a href = "mailto: sungju.wu@duke.edu">sungju.wu[at]duke.edu</a>.
