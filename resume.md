@@ -21,7 +21,7 @@ __National Taiwan University__\
 `2018`
 M.A., Economics\
 `2015`
-B.A., Economics 
+B.A., Economics (Major) & Political Science (Minor)
 
 __University of Mannheim__\
 `2013-2014`
