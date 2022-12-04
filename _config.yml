@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Sung-Ju Wu 吳松儒
+title: 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Sung-Ju Wu
+  name: Sung-Ju Wu 吳松儒
   avatar: dukechapel.jpg
   bio: "Ph.D. Candidate in Economics, Duke University"
   email: sungju.wu@duke.edu #emailaddress
