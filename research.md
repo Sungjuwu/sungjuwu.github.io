@@ -3,8 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: Research
 ---
-
-***
 # Research
 
 ## Working Paper
