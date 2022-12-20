@@ -1,13 +1,13 @@
 ---
-layout: research
+layout: resume
 menuorder: 3
 menutitle: Research
 ---
 
 ## Working Paper
 
-- <a href="https://sungjuwu.github.io/CNFDI_paper.pdf" target="_blank"><b>**Firm and Labor Adjustments to FDI Liberalization**</b></a>
-with Ming-Jen Lin and Yi-Ting Wang.
+- <a href="https://sungjuwu.github.io/CNFDI_paper.pdf" target="_blank"><b>**Firm and Labor Adjustments to FDI Liberalization**</b></a><br>
+with Ming-Jen Lin and Yi-Ting Wang.<br>
 <details>
   <summary>Abstract</summary>
   This paper studies how liberalizing outward foreign direct investments (FDI) affects manufacturers' engagement in global production and their domestic workers' labor 
