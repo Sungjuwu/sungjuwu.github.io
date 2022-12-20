@@ -33,7 +33,7 @@ Exchange Program, Social Science
 
 ## Working Papers
 
-1. “Firm and Labor Adjustment to FDI Liberalization”
+1. “Firm and Labor Adjustments to FDI Liberalization”
 
 2. “Brokers and the Politics of Economic Engagement”
 
