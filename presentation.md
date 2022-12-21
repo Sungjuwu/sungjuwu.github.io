@@ -1,6 +1,6 @@
 ---
 layout: resume
-menutitle: Presentations
+menutitle: Presentation
 menuorder: 4
 excerpt: "Recent Presentations"
 ---
