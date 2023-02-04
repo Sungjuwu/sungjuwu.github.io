@@ -5,7 +5,7 @@ menutitle: CV
 ---
 
 
-You can download my complete CV <a href="https://sungjuwu.github.io/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
+You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
 
 ## Currently
 
@@ -26,16 +26,6 @@ B.A., Economics (Major) & Political Science (Minor)
 __University of Mannheim__\
 `2013-2014`
 Exchange Program, Social Science
-
-## Work in Progress
-
-1. “The Dynamics of Global Production”
-
-## Working Papers
-
-1. “Firm and Labor Adjustments to FDI Liberalization”
-
-2. “Brokers and the Politics of Economic Engagement”
 
 
 
