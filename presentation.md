@@ -7,6 +7,12 @@ excerpt: "Recent Presentations"
 
 Here is a list of my conference presentations starting from the most recent one.
 
+# 2023
+
+## April
+<a href="https://myweb.uiowa.edu/rriezman/" target="_blank">**Spring Meeting of the Midwest International Economics Group (MWIEG)**</a>\
+University of Tennessee, Knoxville
+
 # 2022
 
 ## August
