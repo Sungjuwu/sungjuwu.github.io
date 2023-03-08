@@ -10,7 +10,7 @@ Here is a list of my conference presentations starting from the most recent one.
 # 2023
 
 ## April
-<a href="https://haslam.utk.edu/midwest-economics-conference/" target="_blank">**Midwest International Trade & Theory Conference**</a>\
+<a href="https://haslam.utk.edu/midwest-economics-conference/" target="_blank">**Midwest International Trade Conference**</a>\
 University of Tennessee, Knoxville
 
 # 2022
