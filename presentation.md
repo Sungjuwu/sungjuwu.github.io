@@ -9,6 +9,10 @@ Here is a list of my conference presentations starting from the most recent one.
 
 # 2023
 
+## August
+<a href="https://www.econ.sinica.edu.tw/summer2023" target="_blank">**Taiwan Economics Research Workshop**</a>\
+Academia Sinica, Taipei
+
 ## April
 <a href="https://haslam.utk.edu/midwest-economics-conference/" target="_blank">**Midwest International Trade Conference**</a>\
 University of Tennessee, Knoxville
