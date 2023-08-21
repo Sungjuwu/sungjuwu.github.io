@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-**Hi! Welcome to my website. I will be on the job market in 2023-2024 and available for interviews.**
+**Hi! Welcome to my website. I will be on the job market in 2023-2024.**
 
 I am a PhD Candidate in Economics at Duke University. My research interests include international trade, development, and political economy.
 
