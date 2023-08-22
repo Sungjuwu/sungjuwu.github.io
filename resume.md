@@ -5,7 +5,7 @@ menutitle: CV
 ---
 
 
-You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><b>here</b></a>.
+You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>.
 
 ## Currently
 
