@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-**Welcome to my website. I am Sung-Ju, a Ph.D. Candidate in Economics at Duke University.** 
+**Welcome to my website. I am a Ph.D. Candidate in Economics at Duke University.** 
 
 **I will be on the job market in 2023-2024.**
 
