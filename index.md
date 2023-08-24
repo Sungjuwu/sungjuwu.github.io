@@ -5,7 +5,8 @@ menutitle: Home
 menuorder: 1
 ---
 
-**Welcome to my website. I am a PhD Candidate in Economics at Duke University.** <br>
+**Welcome to my website. I am a PhD Candidate in Economics at Duke University.**
+
 **I will be on the job market in 2023-2024.**
 
 My research interests include international trade, development, and political economy.
