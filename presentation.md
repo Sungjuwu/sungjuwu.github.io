@@ -9,6 +9,10 @@ Here is a list of my conference presentations starting from the most recent one.
 
 # 2023
 
+## October
+<a href="https://sites.wustl.edu/egsc/" target="_blank">**Economics Graduate Student Conference**</a>\
+Washington University in St. Louis, St. Louis
+
 ## August
 <a href="https://www.econ.sinica.edu.tw/summer2023" target="_blank">**Taiwan Economics Research Workshop**</a>\
 Academia Sinica, Taipei
