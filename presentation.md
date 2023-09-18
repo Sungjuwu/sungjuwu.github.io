@@ -32,10 +32,10 @@ University of Tennessee, Knoxville
 Keio University & University of Tokyo, Tokyo
 
 ## July
-<a href="https://www.na-tsa.org/" target="_blank">**Annual Conference of the North American Taiwan Studies Association (NATSA)**</a>\
+<a href="https://www.na-tsa.org/" target="_blank">**Annual Conference of the North American Taiwan Studies Association**</a>\
 George Washington University, Washington D.C.
 
 ## June
-<a href="https://iaae2022.org/" target="_blank">**Annual Conference of the International Association for Applied Econometrics (IAAE)**</a>\
+<a href="https://iaae2022.org/" target="_blank">**Annual Conference of the International Association for Applied Econometrics**</a>\
 King's Business School, London
 
