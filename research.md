@@ -9,7 +9,9 @@ Here is my recent research with links and abstracts.
 ## Working Papers
 **Foreign Ownership and Firm Response to Foreign Demand Shocks** <br>
 Job market paper | Draft coming soon
+
 ---
+
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 <br> 
 with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang | <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a> <br>
 Revise and Resubmit, <em>**Journal of International Economics**</em>
