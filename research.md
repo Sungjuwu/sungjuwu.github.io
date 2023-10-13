@@ -7,7 +7,7 @@ menutitle: Research
 Here is my recent research with links and abstracts. 
 
 ## Working Papers
-**Firm Ownership and Trade Response to Foreign Demand Shocks** <br>
+**Foreign Ownership and Firm Response to Foreign Demand Shocks** <br>
 Job market paper | Draft coming soon
   
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 <br> 
