@@ -15,13 +15,13 @@ Ph.D. Candidate, Economics
 ## Education
 __Duke University__\
 `2021`
-M.A., Economics
+M.A., Economics <br>
 
 __National Taiwan University__\
 `2018`
 M.A., Economics\
 `2015`
-B.A., Economics (Major) & Political Science (Minor)
+B.A., Economics (Major) & Political Science (Minor) <br>
 
 __University of Mannheim__\
 `2013-2014`
