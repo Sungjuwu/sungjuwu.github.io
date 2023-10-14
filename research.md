@@ -3,14 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Research
 ---
-<head>
-    <style>
-        details {
-            margin-top: 0.25em; /* Adjust the margin value as needed */
-        }
-    </style>
-</head>
-<body>
+
 Here is my recent research with links and abstracts. 
 
 ## Working Papers
