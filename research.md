@@ -24,5 +24,5 @@ Job Market Paper | Draft coming soon <br> <br>
 **The Dynamics of Global Production** <br>
 Slides available upon request <br> <br>
 
-**The Regional Effect of FDI Composition Change in Vietnam** <br>
+**Regional Effect of FDI Composition Change in Vietnam** <br>
 Slides available upon request
