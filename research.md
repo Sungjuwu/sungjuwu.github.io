@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Research
 ---
 
-Here is my <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>research statement</u></span></a>. 
+My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
 
 ## Working Papers
 **Foreign Ownership and Firm Response to Foreign Demand Shocks** <br>
