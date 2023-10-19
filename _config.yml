@@ -45,10 +45,13 @@ owner:
 highlight-color: '#012169'
 lowlight-color: '#012169'
 
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+# NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
+
+# Google Analytics
+google_analytics: G-4FZJCFFL74
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration

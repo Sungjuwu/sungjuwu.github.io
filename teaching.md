@@ -14,13 +14,13 @@ Duke University | <a href="https://sungjuwu.github.io/documents/Econ104_syllabus
 ## Teaching Assistant
 
 **Intermediate Microeconomics II (with calculus)**, Fall 2023 <br>
-Duke University
+Duke University <br> <br>
 
 **Intermediate Microeconomics I**, Fall 2019 & Spring 2020 <br>
-Duke University
+Duke University <br> <br>
 
 **Game Theory in Everyday Life**, Fall 2017 <br>
-National Taiwan University
+National Taiwan University <br> <br>
 
 **Principle of Economics I & II**, Fall 2016 & Spring 2017 <br>
 National Taiwan University
