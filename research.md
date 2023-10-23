@@ -4,13 +4,13 @@ menuorder: 3
 menutitle: Research
 ---
 
-Here is my <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>research statement</u></span></a>. 
+My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
 
 ## Working Papers
 **Foreign Ownership and Firm Response to Foreign Demand Shocks** <br>
 Job Market Paper | Draft coming soon <br>
 <details>
-    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies firm response and welfare implication of foreign demand shocks in a developing country when foreign-owned firms repatriate their gains. Using an enterprise survey in Vietnam, I first show that trade activities in Vietnam are predominantly conducted by foreign-owned manufacturers rather than domestic ones, even conditional on firm size. Exploiting the US-China trade war episode in 2018-2019 as a positive foreign demand shock to all Vietnam-based manufacturers, I provide evidence that the positive responses in input sourcing, product export, and employment are mainly driven by foreign-owned manufacturers, especially Chinese manufacturers. Motivated by the findings, I develop and estimate a quantitative model of trade participation with foreign ownership, where domestic and foreign-owned firms differ in their productivity, fixed costs of sourcing and exporting, as well as whether they retain net profits in Vietnam. The welfare contribution of a simulated demand shock to Vietnam similar in magnitude to the trade war would be 10 percent higher if foreign-owned manufacturers were to retain all their profits locally.</p>
+    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies firm response and welfare implication of foreign demand shocks in a developing country when foreign-owned firms repatriate their gains. Using an enterprise survey in Vietnam, I first show that trade activities in Vietnam are predominantly conducted by foreign-owned manufacturers rather than domestic ones, even conditional on firm size. Exploiting the US-China trade war episode in 2018-2019 as a positive foreign demand shock to all Vietnam-based manufacturers, I provide evidence that the positive responses in input sourcing, product export, and employment are mainly driven by foreign-owned manufacturers, especially Chinese manufacturers. Motivated by the findings, I develop and estimate a quantitative model of trade participation with foreign ownership, where domestic and foreign-owned firms differ in their productivity, fixed costs of sourcing and exporting, as well as whether they retain net profits in Vietnam. The welfare contribution of a simulated demand shock to Vietnam similar in magnitude to the trade war would be 15 percent higher if foreign-owned manufacturers were to retain all their profits locally.</p>
 </details> <br>
 
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 <br>
