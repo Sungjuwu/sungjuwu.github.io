@@ -6,13 +6,14 @@ menutitle: Research
 
 My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
 
-## Working Papers
+## Job Market Paper
 **Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam**, November 2023 <br>
-Job Market Paper | <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> <br>
+<a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits. Utilizing an enterprise survey in Vietnam, I provide novel evidence that Vietnam's positive responses in input sourcing, product export, and employment in 2017-2019 are driven mainly by foreign-owned manufacturers, especially Chinese manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned manufacturers do not retain their profits in the host country. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
-</details> <br>
+</details>
 
+## Working Paper
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang
     | <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
