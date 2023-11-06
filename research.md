@@ -7,7 +7,7 @@ menutitle: Research
 My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
 
 ## Working Papers
-**Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam** <br>
+**Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam**, November 2023 <br>
 Job Market Paper | <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> <br>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits. Utilizing an enterprise survey in Vietnam, I provide novel evidence that Vietnam's positive responses in input sourcing, product export, and employment in 2017-2019 are driven mainly by foreign-owned manufacturers, especially Chinese manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned manufacturers do not retain their profits in the host country. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
