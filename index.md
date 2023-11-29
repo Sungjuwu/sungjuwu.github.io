@@ -11,7 +11,7 @@ menuorder: 1
 My main research fields are **international trade** and **economic development**, with a focus on firm investment and trade participation decisions across space and the resulting welfare impacts. <br>
 My <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>job market paper</u></span></a> investigates the welfare implication of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits. <br> <br>
 
-Here is my <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>CV</u></span></a> and <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>research statement</u></span></a>. You can contact me via <a href = "mailto: sungju.wu@duke.edu"><span style="color:#012169"><u>sungju.wu[at]duke.edu</u></span></a>. <br> <br>
+Here are my <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>CV</u></span></a> and <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>research statement</u></span></a>. You can contact me via <a href = "mailto: sungju.wu@duke.edu"><span style="color:#012169"><u>sungju.wu[at]duke.edu</u></span></a>. <br> <br>
 
 ## Job Market Paper
 **Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam**, November 2023 <br>
