@@ -10,8 +10,8 @@ Here is a list of my conference presentations starting from the most recent one.
 # 2024
 
 ## April
-<a href="https://sites.google.com/site/riefnetwork/home" target="_blank">**REIF Doctoral Meetings**</a>\
-Universite Paris Dauphine, Paris <br> <br> <br>
+<a href="https://haslam.utk.edu/midwest-economics-conference/" target="_blank">**Spring Meeting of the Midwest International Trade Conference**</a>\
+University of Tennessee, Knoxville <br> <br> <br>
 
 # 2023
 
