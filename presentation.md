@@ -10,8 +10,7 @@ Here is a list of my conference presentations starting from the most recent one.
 # 2024
 
 ## April
-<a href="https://sites.google.com/site/riefnetwork/home?authuser=0" target="_blank">**REIF Doctoral Meeting
-s**</a>\
+<a href="https://sites.google.com/site/riefnetwork/home?authuser=0" target="_blank">**REIF Doctoral Meetings**</a>\
 Université Paris Dauphine, Paris
 
 # 2023
