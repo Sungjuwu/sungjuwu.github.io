@@ -15,8 +15,8 @@ Université Paris Dauphine, Paris <br> <br> <br>
 # 2023
 
 ## November
-<a href="https://econ.gatech.edu/midwest-economics-conference" target="_blank">**Fall Meeting of the Midwest International Trade Conference** (Absence due to Covid) </a>\
-Georgia Institute of Technology, Atlanta
+<a href="https://econ.gatech.edu/midwest-economics-conference" target="_blank">**Fall Meeting of the Midwest International Trade Conference**</a>\
+Georgia Institute of Technology, Atlanta  (Presentation canceled due to Covid)
 
 ## October
 <a href="https://sites.wustl.edu/egsc/" target="_blank">**Economics Graduate Student Conference**</a>\
