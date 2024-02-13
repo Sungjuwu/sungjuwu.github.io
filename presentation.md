@@ -11,7 +11,7 @@ Here is a list of my conference presentations starting from the most recent one.
 
 ## April
 <a href="https://sites.google.com/site/riefnetwork/home" target="_blank">**REIF Doctoral Meetings**</a>\
-Université Paris Dauphine, Paris <br> <br> <br>
+Universite Paris Dauphine, Paris <br> <br> <br>
 
 # 2023
 
