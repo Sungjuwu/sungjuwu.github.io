@@ -6,10 +6,16 @@ menuorder: 4
 
 Here is a list of my conference presentations starting from the most recent one. <br> <br> <br>
 
+# 2024
+
+## April
+<a href="https://sites.google.com/site/riefnetwork/home" target="_blank">**RIEF Doctoral Meetings**</a>\
+Université Paris Dauphine, Paris <br> <br> <br>
+
 # 2023
 
 ## November
-<a href="https://econ.gatech.edu/midwest-economics-conference" target="_blank">**Fall Meeting of the Midwest International Trade Conference**</a>\
+<a href="https://econ.gatech.edu/midwest-economics-conference" target="_blank">**Fall Meeting of the Midwest International Trade Conference** (Absence due to Covid) </a>\
 Georgia Institute of Technology, Atlanta
 
 ## October
