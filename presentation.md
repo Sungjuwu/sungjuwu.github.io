@@ -2,7 +2,6 @@
 layout: resume
 menutitle: Presentation
 menuorder: 4
-excerpt: "Recent Presentations"
 ---
 
 Here is a list of my conference presentations starting from the most recent one. <br> <br> <br>
