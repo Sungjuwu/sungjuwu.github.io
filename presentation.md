@@ -11,7 +11,7 @@ Here is a list of my conference presentations starting from the most recent one.
 
 ## November
 <a href="https://econ.gatech.edu/midwest-economics-conference" target="_blank">**Fall Meeting of the Midwest International Trade Conference**</a>\
-Georgia Institute of Technology, Atlanta (Absence due to covid)
+Georgia Institute of Technology, Atlanta
 
 ## October
 <a href="https://sites.wustl.edu/egsc/" target="_blank">**Economics Graduate Student Conference**</a>\
