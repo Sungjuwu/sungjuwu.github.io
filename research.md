@@ -25,6 +25,9 @@ My research statement is <a href="https://sungjuwu.github.io/documents/research_
 </details>
 
 ## Work in Progress
+**Exports in Disguise: Trade Re-Routing during the US-China Trade War** <br>
+with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a>, and Bo Feng <br> <br>
+
 **The Dynamics of Global Production** <br>
 Slides available upon request <br> <br>
 
