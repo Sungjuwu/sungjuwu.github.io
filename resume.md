@@ -7,13 +7,10 @@ menutitle: CV
 
 You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>.
 
-## Currently
-
-__Duke University__\
-Ph.D. Candidate, Economics
-
 ## Education
 __Duke University__\
+`2024`
+Ph.D., Economics
 `2021`
 M.A., Economics <br> <br>
 
