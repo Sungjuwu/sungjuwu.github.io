@@ -10,7 +10,7 @@ You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV
 ## Education
 __Duke University__\
 `2024`
-Ph.D., Economics
+Ph.D., Economics\
 `2021`
 M.A., Economics <br> <br>
 
