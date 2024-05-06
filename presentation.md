@@ -8,7 +8,7 @@ Here is a list of my conference presentations starting from the most recent one.
 
 # 2024
 
-## April
+## June
 **Trade Workshop**\
 Yonsei University, Seoul
 
