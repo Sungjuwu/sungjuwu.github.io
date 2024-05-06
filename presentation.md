@@ -4,7 +4,7 @@ menutitle: Presentation
 menuorder: 4
 ---
 
-Here is a list of my conference presentations starting from the most recent one. <br> <br> <br>
+Here is a list of my conference and seminar presentations starting from the most recent one. <br> <br> <br>
 
 # 2024
 
