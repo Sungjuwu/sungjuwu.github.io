@@ -9,6 +9,10 @@ Here is a list of my conference presentations starting from the most recent one.
 # 2024
 
 ## April
+**Trade Workshop**\
+Yonsei University, Seoul
+
+## April
 <a href="https://sites.google.com/site/riefnetwork/home" target="_blank">**RIEF Doctoral Meetings**</a>\
 Université Paris Dauphine, Paris <br> <br> <br>
 
