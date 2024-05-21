@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2024
 
+## August
+<a href="https://www.econometricsociety.org/regional-activities/schedule/2024/08/02/2024-AMES-in-ESE-Asia-Ho-Chi-Minh-City-Vietnam" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
+Ho Chi Minh City University of Banking, Ho Chi Minh City
+
 ## June
 **Trade Workshop**\
 Yonsei University, Seoul
@@ -37,7 +41,7 @@ University of Tennessee, Knoxville <br> <br> <br>
 # 2022
 
 ## August
-<a href="https://ies.keio.ac.jp/ames2022/" target="_blank">**Asian Meeting (East and South-East Asia) of the Econometric Society**</a>\
+<a href="https://ies.keio.ac.jp/ames2022/" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
 Keio University & University of Tokyo, Tokyo
 
 ## July
