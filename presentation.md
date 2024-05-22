@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2024
 
+## November
+Annual Meeting of the Southern Economic Association (IEFS Session)\
+Washington Hilton, Washington D.C.
+
 ## August
 <a href="https://www.econometricsociety.org/regional-activities/schedule/2024/08/02/2024-AMES-in-ESE-Asia-Ho-Chi-Minh-City-Vietnam" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
 Ho Chi Minh City University of Banking, Ho Chi Minh City
