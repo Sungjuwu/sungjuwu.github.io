@@ -14,7 +14,7 @@ Washington Hilton, Washington D.C.
 
 ## August
 <a href="https://www.econ.sinica.edu.tw/summer2024" target="_blank">**Taiwan Economics Research Workshop**</a>\
-Academia Sinica, Taipei\
+Academia Sinica, Taipei
 
 <a href="https://www.econometricsociety.org/regional-activities/schedule/2024/08/02/2024-AMES-in-ESE-Asia-Ho-Chi-Minh-City-Vietnam" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
 Ho Chi Minh City University of Banking, Ho Chi Minh City
