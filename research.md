@@ -7,6 +7,15 @@ menutitle: Research
 My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
 
 ## Working Papers
+**Exports in Disguise: Trade Re-Routing during the US-China Trade War**, May 2024 <br>
+with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a>, and Bo Feng | <a href="https://sungjuwu.github.io/documents/Vietnam_rerouting_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> <br>
+<details>
+    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>Origin-specific tariffs are a common policy tool; however, critics claim that such tariffs are often circumvented by rerouting goods through intermediary countries. This study examines
+whether rerouting increased due to the 2018-2019 US-China trade war via Vietnam. We define rerouting at the product level as the maximum value of trade flows from China to the US, passing through Vietnam, for identical HS 8-digit products within the same quarter. Additionally, we employ a firm-level definition, which only considers such flows within the same firm. </p>
+<p> Our findings indicate that the level of aggregation significantly impacts rerouting estimates. In 2021, 16.1% of Vietnamese exports to the US were identified as product-level rerouting, while only 1.8% were flagged as firm-level rerouting, equivalent to 15.5 billion and 1.7 billion current USD annually. Moreover, the average tariff increase on Chinese exports led to a 5.9 percentage point rise in product-level rerouting, compared to a 0.22 percentage point increase in firm-level rerouting. These increases represented 47.2% and 15.7% of their 2018 levels. These differences underscore the importance of microdata for designing trade policy
+and assessing compliance.</p>
+</details> <br> 
+
 **Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam** (Job Market Paper), November 2023 <br>
 <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
 <details>
@@ -23,10 +32,8 @@ My research statement is <a href="https://sungjuwu.github.io/documents/research_
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies how liberalizing outward foreign direct investments (FDI) affects manufacturers' engagement in global production and their domestic workers' labor market outcomes. Focusing on a liberalization policy in 2001 by the government of Taiwan that allowed 122 electronic products to be produced in China, we estimate its effect on Taiwanese electronic manufacturers and their domestic workers. Employing a matched difference-in-differences strategy, we find that the manufacturers targeted by the policy were on average 16% more likely to invest in China relative to the non-targeted ones. Correspondingly, the domestic workers initially employed by the targeted manufacturers were on average more likely to change their jobs, stay employed for fewer years, and have lower wages in subsequent years relative to those employed by the non-targeted ones. The worker-level effects of the policy exhibited substantial heterogeneity across the initial wage distribution, with the top-decile workers benefiting and the other workers losing on average.</p>
 </details>
 
-## Work in Progress
-**Exports in Disguise: Trade Re-Routing during the US-China Trade War** <br>
-with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a>, and Bo Feng <br> <br>
 
+## Work in Progress
 **The Dynamics of Global Production** <br>
 Slides available upon request <br> <br>
 
