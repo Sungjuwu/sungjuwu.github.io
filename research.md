@@ -8,7 +8,7 @@ My research statement is <a href="https://sungjuwu.github.io/documents/research_
 
 ## Working Papers
 **Exports in Disguise: Trade Re-Routing during the US-China Trade War**, May 2024 <br>
-with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a>, and Bo Feng | <a href="https://sungjuwu.github.io/documents/Vietnam_rerouting_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> <br>
+with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a>, and Bo Feng | <a href="https://sungjuwu.github.io/documents/Vietnam_rerouting_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> | <a href="https://www.hbs.edu/ris/Publication%20Files/24-072_a50d1294-e645-4a28-b1f1-ec4e86bd20e4.pdf" target="_blank"><span style="color:#012169"><u>HBS Working Paper</u></span></a> <br>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>Origin-specific tariffs are a common policy tool; however, critics claim that such tariffs are often circumvented by rerouting goods through intermediary countries. This study examines
 whether rerouting increased due to the 2018-2019 US-China trade war via Vietnam. We define rerouting at the product level as the maximum value of trade flows from China to the US, passing through Vietnam, for identical HS 8-digit products within the same quarter. Additionally, we employ a firm-level definition, which only considers such flows within the same firm. </p>
