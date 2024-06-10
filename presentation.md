@@ -20,7 +20,7 @@ Academia Sinica, Taipei <br> <br>
 Ho Chi Minh City University of Banking, Ho Chi Minh City
 
 ## June
-**Trade Workshop**\
+**Yonsei Trade Workshop**\
 Yonsei University, Seoul
 
 ## April
