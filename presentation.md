@@ -9,7 +9,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 # 2024
 
 ## November
-**Annual Meeting of the Southern Economic Association (IEFS Session)**\
+<a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session)**</a>\
 Washington Hilton, Washington D.C.
 
 ## August
