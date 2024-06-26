@@ -9,19 +9,19 @@ You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV
 
 ## Education
 __Duke University__\
-&nbsp;`2024`
+&nbsp;&nbsp;`2024`
  Ph.D., Economics\
-&nbsp;`2021`
+&nbsp;&nbsp;`2021`
  M.A., Economics <br> <br>
 
 __National Taiwan University__\
-&nbsp;`2018`
+&nbsp;&nbsp;`2018`
  M.A., Economics\
-&nbsp;`2015`
+&nbsp;&nbsp;`2015`
  B.A., Economics (Major) & Political Science (Minor) <br> <br>
 
 __University of Mannheim__\
-&nbsp;`2013-2014`
+&nbsp;&nbsp;`2013-2014`
  Exchange Program, Social Science
 
 
