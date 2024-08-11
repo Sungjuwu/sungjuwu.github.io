@@ -9,18 +9,18 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 # 2024
 
 ## November
-**Annual Meeting of the Southern Economic Association (IEFS Session)**\
+<a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session)**</a>\
 Washington Hilton, Washington D.C.
 
 ## August
 <a href="https://www.econ.sinica.edu.tw/summer2024" target="_blank">**Taiwan Economics Research Workshop**</a>\
 Academia Sinica, Taipei <br> <br>
 
-<a href="https://www.econometricsociety.org/regional-activities/schedule/2024/08/02/2024-AMES-in-ESE-Asia-Ho-Chi-Minh-City-Vietnam" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
+<a href="https://ames2024.sciencesconf.org/" target="_blank">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
 Ho Chi Minh City University of Banking, Ho Chi Minh City
 
 ## June
-**Trade Workshop**\
+**Yonsei Trade Workshop**\
 Yonsei University, Seoul
 
 ## April
