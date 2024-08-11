@@ -7,6 +7,15 @@ menutitle: CV
 
 You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>.
 
+## Employment
+__Academia Sinica__\
+&nbsp;&nbsp;`2025-`
+Assistant Research Fellow <br> <br>
+
+__University of Nottingham__\
+&nbsp;&nbsp;`2024-2025`
+Postdoctoral Research Fellow 2024-2025
+
 ## Education
 __Duke University__\
 &nbsp;&nbsp;`2024`
