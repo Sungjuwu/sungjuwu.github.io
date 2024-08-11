@@ -14,7 +14,7 @@ Assistant Research Fellow <br> <br>
 
 __University of Nottingham__\
 &nbsp;&nbsp;`2024-2025`
-Postdoctoral Research Fellow 2024-2025
+Postdoctoral Research Fellow
 
 ## Education
 __Duke University__\
