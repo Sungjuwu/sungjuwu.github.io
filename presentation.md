@@ -12,6 +12,13 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 <a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session)**</a>\
 Washington Hilton, Washington D.C.
 
+## October
+**Seminar at the Department of Economics and Business Economics**\
+Aarhus University, Aarhus <br> <br>
+
+**Seminar at the Department of Economics**\
+Copenhagen Business School, Copenhagen <br> <br>
+
 ## August
 <a href="https://www.econ.sinica.edu.tw/summer2024" target="_blank">**Taiwan Economics Research Workshop**</a>\
 Academia Sinica, Taipei <br> <br>
