@@ -17,7 +17,7 @@ Washington Hilton, Washington D.C.
 Aarhus University, Aarhus <br> <br>
 
 **Seminar at the Department of Economics**\
-Copenhagen Business School, Copenhagen <br> <br>
+Copenhagen Business School, Copenhagen
 
 ## August
 <a href="https://www.econ.sinica.edu.tw/summer2024" target="_blank">**Taiwan Economics Research Workshop**</a>\
