@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Research
 ---
 
- 
+Please find my working papers and selected work in progress listed below.
 
 ## Working Papers
 **Exports in Disguise: Trade Re-Routing during the US-China Trade War**, May 2024 <br>
