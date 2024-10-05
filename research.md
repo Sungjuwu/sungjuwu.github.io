@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Research
 ---
 
-My research statement is <a href="https://sungjuwu.github.io/documents/research_statement_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>. 
+ 
 
 ## Working Papers
 **Exports in Disguise: Trade Re-Routing during the US-China Trade War**, May 2024 <br>
