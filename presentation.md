@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2024
 
+## December
+<a href="https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain" target="_blank">**European Winter Meeting of the Econometric Society**</a>\
+University of the Balearic Islands, Palma de Majorca
+
 ## November
 <a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session)**</a>\
 Washington Hilton, Washington D.C.
