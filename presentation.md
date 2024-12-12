@@ -6,6 +6,12 @@ menuorder: 4
 
 Here is a list of my conference and seminar presentations. <br> <br> <br>
 
+# 2025
+
+## May
+**Workshop on the Geopolitization of Trade Policy**\
+University of Salzburg, Salzburg <br> <br> <br>
+
 # 2024
 
 ## December
