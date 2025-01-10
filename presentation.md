@@ -10,7 +10,11 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 ## May
 **Workshop on the Geopolitization of Trade Policy**\
-University of Salzburg, Salzburg <br> <br> <br>
+University of Salzburg, Salzburg 
+
+## February
+<a href="https://www.fiw.ac.at/en/event/17-fiw-research-conference-international-economics/" target="_blank">**FIW-Research Conference International Economics**</a>\
+Vienna University of Economics and Business, Vienna <br> <br> <br>
 
 # 2024
 
