@@ -12,6 +12,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 **Workshop on the Geopolitization of Trade Policy**\
 University of Salzburg, Salzburg 
 
+## March
+<a href="https://urbaneconomics.org/meetings/emuea2025/" target="_blank">**European Meeting of the Urban Economics Association**</a>\
+Humboldt University, Berlin 
+
 ## February
 <a href="https://www.fiw.ac.at/en/event/17-fiw-research-conference-international-economics/" target="_blank">**FIW-Research Conference International Economics**</a>\
 Vienna University of Economics and Business, Vienna <br> <br> <br>
