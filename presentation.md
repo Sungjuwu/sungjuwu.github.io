@@ -12,6 +12,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 **Workshop on the Geopolitization of Trade Policy**\
 University of Salzburg, Salzburg 
 
+## April
+<a href="https://citp.ac.uk/academic-conference-2025" target="_blank">**Centre for Inclusive Trade Policy Academic Conference**</a>\
+University of Strathclyde, Glasgow
+
 ## March
 <a href="https://urbaneconomics.org/meetings/emuea2025/" target="_blank">**European Meeting of the Urban Economics Association**</a>\
 Humboldt University, Berlin 
