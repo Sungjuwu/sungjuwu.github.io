@@ -14,7 +14,10 @@ University of Salzburg, Salzburg
 
 ## April
 <a href="https://citp.ac.uk/academic-conference-2025" target="_blank">**Centre for Inclusive Trade Policy Academic Conference**</a>\
-University of Strathclyde, Glasgow
+University of Strathclyde, Glasgow <br> <br>
+
+**E1 Macro Workshop**\
+Queen Mary University of London, London
 
 ## March
 <a href="https://urbaneconomics.org/meetings/emuea2025/" target="_blank">**European Meeting of the Urban Economics Association**</a>\
