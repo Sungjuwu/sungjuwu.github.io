@@ -12,6 +12,7 @@ Please find my working papers and selected work in progress listed below.
 <p>Revise and Resubmit, <em><strong>Journal of International Economics</strong></em></p>
     <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
     | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
+    | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a>
     | <a href="https://sungjuwu.github.io/documents/CNFDI_slides.pdf" target="_blank"><span style="color:#012169"><u>Old Slides</u></span></a> <br></p>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies how liberalizing outward foreign direct investments (FDI) affects manufacturers’ engagement in global production and their domestic workers’ labor market outcomes. Focusing on a liberalization policy in 2001 by the government of Taiwan that allowed 122 electronic products to be produced in China, we estimate its
