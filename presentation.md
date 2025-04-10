@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2025
 
+## June
+**CEPR-UCD-CBI Workshop: "Uncertain Tides: The Past and Present of Trade Policy"**\
+Central Bank of Ireland, Dublin 
+
 ## May
 **Workshop on the Geopolitization of Trade Policy**\
 University of Salzburg, Salzburg 
