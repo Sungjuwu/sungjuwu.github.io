@@ -34,10 +34,3 @@ and assessing compliance.</p>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits. Utilizing an enterprise survey in Vietnam, I provide novel evidence that Vietnam's positive responses in input sourcing, product export, and employment in 2017-2019 are driven mainly by foreign-owned manufacturers, especially Chinese manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned manufacturers do not retain their profits in the host country. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
 </details>
-
-## Work in Progress
-**The Dynamics of Global Production** <br>
-Slides available upon request <br> <br>
-
-**Regional Effect of FDI Composition Change in Vietnam** <br>
-Slides available upon request
