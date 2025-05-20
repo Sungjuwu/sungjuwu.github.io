@@ -13,14 +13,14 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 Central Bank of Ireland, Dublin 
 
 ## May
-**Workshop on the Geopolitization of Trade Policy**\
+<a href="https://sites.google.com/view/geotrade-project/" target="_blank">**Workshop on the Geopolitization of Trade Policy**</a>\
 University of Salzburg, Salzburg 
 
 ## April
 <a href="https://citp.ac.uk/academic-conference-2025" target="_blank">**Centre for Inclusive Trade Policy Academic Conference**</a>\
 University of Strathclyde, Glasgow <br> <br>
 
-**E1 Macro Workshop**\
+<a href="https://sungjuwu.github.io/documents/E1_FinalProgram_2025.pdf" target="_blank">**E1 Macro Workshop**</a>\
 Queen Mary University of London, London
 
 ## March
@@ -42,7 +42,7 @@ University of the Balearic Islands, Palma de Majorca
 Washington Hilton, Washington D.C.
 
 ## October
-**Seminar at the Department of Economics and Business Economics**\
+<a href="https://econ.au.dk/research/economics/seminars/vis/artikel/find-seminar-sung-ju-wu-duke-university" target="_blank">**Seminar at the Department of Economics and Business Economics**</a>\
 Aarhus University, Aarhus <br> <br>
 
 **Seminar at the Department of Economics**\
