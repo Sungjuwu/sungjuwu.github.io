@@ -1,0 +1,39 @@
+/* Horizontal social links for mobile devices */
+
+/* Social links container */
+.social-links-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Style for each social link on mobile */
+.social-links-container .author-social {
+  display: inline-block !important;
+  width: calc(50% - 10px) !important;
+  margin: 0 5px 10px 5px !important;
+  text-align: left !important;
+  box-sizing: border-box !important;
+  font-size: 0.85rem !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* Restore vertical layout on desktop */
+@media only screen and (min-width: 37.5em) {
+  .social-links-container {
+    display: block;
+    margin: 0;
+  }
+  
+  .social-links-container .author-social {
+    display: block !important;
+    width: auto !important;
+    margin-bottom: 5px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
