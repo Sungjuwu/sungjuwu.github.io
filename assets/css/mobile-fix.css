@@ -1,0 +1,53 @@
+/* Mobile-specific fixes for profile picture display */
+
+/* Force display of author sidebar on all devices */
+.article-author-side {
+  display: block !important;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+/* Ensure profile picture is visible with correct styling */
+.article-author-side .bio-photo {
+  max-width: 110px;
+  width: 110px;
+  height: auto;
+  border-radius: 150px;
+  margin: 0 auto;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+/* Center text elements on mobile */
+.article-author-side h3,
+.article-author-side p,
+.article-author-side .author-social {
+  display: block;
+  max-width: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Restore desktop layout on larger screens */
+@media only screen and (min-width: 37.5em) {
+  .article-author-side {
+    text-align: left;
+  }
+  
+  .article-author-side .bio-photo {
+    margin: 0;
+  }
+  
+  .article-author-side h3,
+  .article-author-side p,
+  .article-author-side .author-social {
+    text-align: left;
+  }
+}
+
+/* Hide mobile author module since we're showing the sidebar one */
+.article-author-bottom {
+  display: none !important;
+}
