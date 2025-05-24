@@ -29,3 +29,37 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 @import "print";
+
+/* Custom mobile fixes */
+.article-author-side {
+  display: block;
+  text-align: center;
+  margin-bottom: 2em;
+  
+  .bio-photo {
+    max-width: 110px;
+    border-radius: 150px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  h3, p, .author-social {
+    display: block;
+    max-width: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @media #{$small} {
+    text-align: left;
+    
+    .bio-photo {
+      margin: 0;
+    }
+    
+    h3, p, .author-social {
+      text-align: left;
+    }
+  }
+}
