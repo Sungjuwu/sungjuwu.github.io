@@ -4,11 +4,16 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
+{% include _direct-profile-picture.html %}
+
+<!-- Original image code preserved but not used due to mobile compatibility issues -->
+{% comment %}
 {% if author.avatar contains 'http' %}
 	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% else %}
 	<img src="{{ site.github.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% endif %}
+{% endcomment %}
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
