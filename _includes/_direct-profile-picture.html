@@ -1,0 +1,37 @@
+<!-- Custom direct HTML for profile picture -->
+<div class="direct-profile-picture">
+  <img src="https://sungjuwu.github.io/images/duke_job_market_square.jpg" alt="Sung-Ju Wu profile photo" class="profile-photo">
+</div>
+
+<style>
+/* Direct profile picture styling with !important flags to override any conflicting styles */
+.direct-profile-picture {
+  display: block !important;
+  margin: 0 auto 20px auto !important;
+  text-align: center !important;
+  width: 100% !important;
+  max-width: 150px !important;
+}
+
+.direct-profile-picture .profile-photo {
+  width: 110px !important;
+  height: auto !important;
+  border-radius: 150px !important;
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  margin: 0 auto !important;
+}
+
+/* Hide the original bio-photo to prevent conflicts */
+.article-author-side .bio-photo {
+  display: none !important;
+}
+
+@media only screen and (min-width: 37.5em ) {
+  .direct-profile-picture {
+    text-align: left !important;
+    margin: 0 0 20px 0 !important;
+  }
+}
+</style>
