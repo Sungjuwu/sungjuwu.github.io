@@ -12,7 +12,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 **Midlands Trade & Investment Network ECR Conference**\
 University of Birmingham, Birmingham <br> <br>
 
-**CEPR-UCD-CBI Workshop: "Uncertain Tides: The Past and Present of Trade Policy"**\
+<a href="https://sungjuwu.github.io/documents/CEPR-UCD-CBI Workshop Programme.pdf" target="_blank">**CEPR-UCD-CBI Workshop: "Uncertain Tides: The Past and Present of Trade Policy"**</a>\
 Central Bank of Ireland, Dublin 
 
 ## May
