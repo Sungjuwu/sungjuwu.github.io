@@ -9,6 +9,9 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 # 2025
 
 ## June
+**Midlands Trade & Investment Network ECR Conference**\
+University of Birmingham, Birmingham <br> <br>
+
 **CEPR-UCD-CBI Workshop: "Uncertain Tides: The Past and Present of Trade Policy"**\
 Central Bank of Ireland, Dublin 
 
