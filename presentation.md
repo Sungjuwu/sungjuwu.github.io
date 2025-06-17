@@ -9,7 +9,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 # 2025
 
 ## June
-**Midlands Trade & Investment Network ECR Conference**\
+<a href="https://sungjuwu.github.io/documents/Trade Mid ECR Conference 2025-Draft Programme.pdf" target="_blank">**Midlands Trade & Investment Network ECR Conference**</a>\
 University of Birmingham, Birmingham <br> <br>
 
 <a href="https://www.eventbrite.ca/e/vietnam-firms-and-labour-markets-online-seminar-series-tickets-1409369495099?aff=oddtdtcreator" target="_blank">**Vietnam Firms and Labour Markets Online Seminar**</a>\
