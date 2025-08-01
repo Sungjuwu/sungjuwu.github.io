@@ -10,5 +10,5 @@ I am a Postdoctoral Research Fellow at <a href="https://www.nottingham.ac.uk/eco
 
 My main research fields are **international trade** and **economic development**, with a focus on firm investment and trade participation decisions across space and the resulting welfare impacts. My <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>job market paper</u></span></a> investigates the welfare implication of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits.
 
-Here is my <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>CV</u></span></a>. You can contact me via <a href = "mailto: sung-ju.wu@nottingham.ac.uk"><span style="color:#012169"><u>sung-ju.wu[at]nottingham.ac.uk</u></span></a>.
+Here is my <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>CV</u></span></a>. You can contact me via <a href = "mailto: sjwuecon@gmail.com"><span style="color:#012169"><u>sjwuecon[at]gmail.com</u></span></a>.
 
