@@ -6,7 +6,7 @@ menuorder: 1
 
 **Welcome to my research page.**
 
-I am an Assistant Research Fellow at <a href="https://www.econ.sinica.edu.tw/members/093cf075-9d1f-4293-bcdd-534358b8c47f?page_id=45" target="_blank"><span style="color:#012169"><u>Institute of Economics, Academia Sinica</u></span></a>. I was previously a Postdoctoral Research Fellow at University of Nottingham and completed a Ph.D. in economics at Duke University in 2024.
+I am an Assistant Research Fellow at <a href="https://www.econ.sinica.edu.tw/members/093cf075-9d1f-4293-bcdd-534358b8c47f?page_id=45" target="_blank"><span style="color:#012169"><u>Institute of Economics, Academia Sinica</u></span></a>. I was previously a Postdoctoral Research Fellow at University of Nottingham in 2024-2025 and completed a Ph.D. in economics at Duke University in 2024.
 
 My main research fields are **international trade** and **economic development**, with a focus on firm investment and trade participation decisions across space and the resulting welfare impacts. My <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>job market paper</u></span></a> investigates the welfare implication of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits.
 
