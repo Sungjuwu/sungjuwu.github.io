@@ -7,6 +7,14 @@ menutitle: Research
 Please find my working papers and selected work in progress listed below.
 
 ## Working Papers
+**Foreign Ownership and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam**, September 2025 <br>
+<a href="https://sungjuwu.github.io/documents/Best_paper_award_CITP_2025.pdf" target="_blank"><span style="color:#012169"><u>L. Alan Winters ECR Award</u></span></a> for Best Paper at the <a href="https://citp.ac.uk/academic-conference-2025" target="_blank">CITP Academic Conference</a> <br>
+<a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
+<details>
+    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US–China trade war in Vietnam.
+Utilizing an enterprise survey in Vietnam that covers the universe of registered firms with information on their capital ownership, I provide novel evidence that Vietnam’s positive responses in employment and exports in 2017–2019 are driven mainly by foreign-owned manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned and domestic manufacturers differ in their distributions of productivity and fixed costs to participate in sourcing and exporting activities. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
+</details> <br> 
+
 **Firm and Labor Adjustments to FDI Liberalization**, December 2024 <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
 <p>Revise and Resubmit (2nd Round), <em><strong>Journal of International Economics</strong></em></p>
@@ -27,11 +35,4 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
 whether rerouting increased due to the 2018-2019 US-China trade war via Vietnam. We define rerouting at the product level as the maximum value of trade flows from China to the US, passing through Vietnam, for identical HS 8-digit products within the same quarter. Additionally, we employ a firm-level definition, which only considers such flows within the same firm. </p>
 <p> Our findings indicate that the level of aggregation significantly impacts rerouting estimates. In 2021, 16.1% of Vietnamese exports to the US were identified as product-level rerouting, while only 1.8% were flagged as firm-level rerouting, equivalent to 15.5 billion and 1.7 billion current USD annually. Moreover, the average tariff increase on Chinese exports led to a 5.9 percentage point rise in product-level rerouting, compared to a 0.22 percentage point increase in firm-level rerouting. These increases represented 47.2% and 15.7% of their 2018 levels. These differences underscore the importance of microdata for designing trade policy
 and assessing compliance.</p>
-</details> <br> 
-
-**Foreign Profit Shifting and The Welfare Responses to The US-China Trade War: Evidence from Manufacturers in Vietnam** (Job Market Paper), November 2023 <br>
-<a href="https://sungjuwu.github.io/documents/Best_paper_award_CITP_2025.pdf" target="_blank"><span style="color:#012169"><u>L. Alan Winters ECR Award</u></span></a> for Best Paper at the <a href="https://citp.ac.uk/academic-conference-2025" target="_blank">CITP Academic Conference</a> <br>
-<a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
-<details>
-    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits. Utilizing an enterprise survey in Vietnam, I provide novel evidence that Vietnam's positive responses in input sourcing, product export, and employment in 2017-2019 are driven mainly by foreign-owned manufacturers, especially Chinese manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned manufacturers do not retain their profits in the host country. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
 </details>
