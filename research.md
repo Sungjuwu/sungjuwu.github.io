@@ -25,7 +25,7 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US–China trade war in Vietnam. Utilizing an enterprise survey in Vietnam that covers the universe of registered firms with information on their capital ownership, I provide novel evidence that Vietnam’s positive responses in employment and exports in 2017–2019 are driven mainly by foreign-owned manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned and domestic manufacturers differ in their distributions of productivity and fixed costs to participate in sourcing and exporting activities. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
 </details> <br> 
 
-**Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated December 2024) <br>
+**Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated September 2025) <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
 <p>Revise and Resubmit (2nd Round), <em><strong>Journal of International Economics</strong></em></p>
     <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
