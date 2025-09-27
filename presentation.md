@@ -6,6 +6,12 @@ menuorder: 4
 
 Here is a list of my conference and seminar presentations. <br> <br> <br>
 
+# 2026
+
+## January
+**Seminar at the Department of Economics**\
+National Cheng Kung University, Tainan <br> <br> <br>
+
 # 2025
 
 ## June
