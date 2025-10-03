@@ -22,7 +22,7 @@ National Taiwan University, Taipei <br> <br>
 <a href="https://sungjuwu.github.io/documents/Trade Mid ECR Conference 2025-Draft Programme.pdf" target="_blank">**Midlands Trade & Investment Network ECR Conference**</a>\
 University of Birmingham, Birmingham <br> <br>
 
-<a href="https://www.eventbrite.ca/e/vietnam-firms-and-labour-markets-online-seminar-series-tickets-1409369495099?aff=oddtdtcreator" target="_blank">**Vietnam Firms and Labour Markets Online Seminar**</a>\
+<a href="https://sites.google.com/site/briandmccaig/vietnam-online-seminar?authuser=0" target="_blank">**Vietnam Firms and Labour Markets Online Seminar**</a>\
 Online <br> <br>
 
 <a href="https://sungjuwu.github.io/documents/CEPR-UCD-CBI Workshop Programme.pdf" target="_blank">**CEPR-UCD-CBI Workshop: "Uncertain Tides: The Past and Present of Trade Policy"**</a>\
