@@ -14,6 +14,10 @@ National Cheng Kung University, Tainan <br> <br> <br>
 
 # 2025
 
+## November
+**CRETA Seminar**\
+National Taiwan University, Taipei <br> <br>
+
 ## June
 <a href="https://sungjuwu.github.io/documents/Trade Mid ECR Conference 2025-Draft Programme.pdf" target="_blank">**Midlands Trade & Investment Network ECR Conference**</a>\
 University of Birmingham, Birmingham <br> <br>
