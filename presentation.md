@@ -9,6 +9,9 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 # 2026
 
 ## January
+**Chung-Ang University–Academia Sinica International Conference on Applied Economics**\
+Academia Sinica, Taipei <br> <br>
+
 **Seminar at the Department of Economics**\
 National Cheng Kung University, Tainan <br> <br> <br>
 
