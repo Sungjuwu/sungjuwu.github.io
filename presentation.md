@@ -19,11 +19,11 @@ Academia Sinica, Taipei <br> <br>
 # 2025
 
 ## December
-**Seminar at the Department of Economics**\
+<a href="https://www.econ.ncku.edu.tw/ActNews.asp?newsid=889&nouse=5611" target="_blank">**Seminar at the Department of Economics**</a>\
 National Cheng Kung University, Tainan
 
 ## November
-**CRETA Seminar**\
+<a href="https://www.creta.org.tw/news-2-342" target="_blank">**CRETA Seminar**</a>\
 National Taiwan University, Taipei
 
 ## June
