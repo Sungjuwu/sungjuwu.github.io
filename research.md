@@ -27,7 +27,7 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
 
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated September 2025) <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
-<p>Revise and Resubmit (2nd Round), <em><strong>Journal of International Economics</strong></em></p>
+<p>Accepted, <em><strong>Journal of International Economics</strong></em></p>
     <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
     | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
     | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CRETA.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
