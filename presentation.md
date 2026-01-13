@@ -8,14 +8,22 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2026
 
-## January
+## April
 **Seminar at the Department of Economics**\
-National Cheng Kung University, Tainan <br> <br> <br>
+National Chengchi University, Taipei
+
+## January
+**Chung-Ang University–Academia Sinica International Conference on Applied Economics**\
+Academia Sinica, Taipei <br> <br>
 
 # 2025
 
+## December
+<a href="https://www.econ.ncku.edu.tw/ActNews.asp?newsid=889&nouse=5611" target="_blank">**Seminar at the Department of Economics**</a>\
+National Cheng Kung University, Tainan
+
 ## November
-**CRETA Seminar**\
+<a href="https://www.creta.org.tw/news-2-342" target="_blank">**CRETA Seminar**</a>\
 National Taiwan University, Taipei
 
 ## June
