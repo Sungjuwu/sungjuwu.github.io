@@ -16,6 +16,10 @@ National Chengchi University, Taipei
 **Seminar at the Department of Economics**\
 National Central University, Taoyuan
 
+## February
+**Seminar at the Department of Economics**\
+National Tsing Hua University, Hsinchu
+
 ## January
 **Chung-Ang University–Academia Sinica International Conference on Applied Economics**\
 Academia Sinica, Taipei <br> <br>
