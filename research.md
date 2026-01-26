@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Research
 ---
 
-Please find my working papers and selected work in progress listed below.
+Please find my past and present work listed below.
 
 ## Working Papers
 
@@ -25,14 +25,17 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies the welfare implications of the US–China trade war in Vietnam. Utilizing an enterprise survey in Vietnam that covers the universe of registered firms with information on their capital ownership, I provide novel evidence that Vietnam’s positive responses in employment and exports in 2017–2019 are driven mainly by foreign-owned manufacturers. To further understand the welfare gains of the trade war episode, I develop and estimate a quantitative model of trade participation with foreign ownership, where foreign-owned and domestic manufacturers differ in their distributions of productivity and fixed costs to participate in sourcing and exporting activities. A foreign demand shock to Vietnam of a magnitude similar to that of the trade war raises the real expenditure in the model by 5 percent, predominantly from an increase in labor income.</p>
 </details> <br> 
 
-**Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated September 2025) <br>
+## Forthcoming and Published Paper
+
+**Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated January 2026) <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
 <p>Accepted, <em><strong>Journal of International Economics</strong></em></p>
     <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
     | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
-    | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CRETA.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
+    | <a href="https://sungjuwu.github.io/documents/CNFDI_online_appendix.pdf" target="_blank"><span style="color:#012169"><u>Online Appendix</u></span></a>
+    | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CAU.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
 <details>
-    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies how liberalizing outward foreign direct investments (FDI) affects
+    <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies how liberalizing outward foreign direct investments affects
 manufacturers’ engagement in global production and their domestic workers’ labor market outcomes. Focusing on a liberalization policy in 2001 by the government of Taiwan that allowed 122 electronic products to be produced in China, we estimate its effect on Taiwanese electronic manufacturers and their domestic workers. Employing a matched difference-in-differences strategy, we find that the manufacturers targeted
 by the policy were on average 10% more likely to invest in China relative to the non-targeted ones. Correspondingly, the domestic incumbent workers of the targeted manufacturers were on average more likely to change their jobs, remain employed for fewer years, and have lower wages in subsequent years relative to those employed by the non-targeted ones. The worker-level effects of the policy exhibited substantial heterogeneity across the initial wage distribution, with top-decile workers being less affected and the remaining workers experiencing average losses.</p>
 </details> <br>
