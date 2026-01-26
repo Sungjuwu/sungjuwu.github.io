@@ -12,6 +12,14 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 **Seminar at the Department of Economics**\
 National Chengchi University, Taipei
 
+## March
+**Seminar at the Department of Economics**\
+National Central University, Taoyuan
+
+## February
+**Seminar at the Department of Economics**\
+National Tsing Hua University, Hsinchu
+
 ## January
 **Chung-Ang University–Academia Sinica International Conference on Applied Economics**\
 Academia Sinica, Taipei <br> <br>
