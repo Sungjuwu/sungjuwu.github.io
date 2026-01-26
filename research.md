@@ -32,7 +32,7 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
 <p>Accepted, <em><strong>Journal of International Economics</strong></em></p>
     <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
     | <a href="https://sungjuwu.github.io/documents/CNFDI_online_appendix.pdf" target="_blank"><span style="color:#012169"><u>Online Appendix</u></span></a>
-    | <a href="https://data.mendeley.com/datasets/7whtznkdrc/1" target="_blank"><span style="color:#012169"><u>Replication Package</u></span></a>
+    | <a href="https://data.mendeley.com/datasets/7whtznkdrc/2" target="_blank"><span style="color:#012169"><u>Replication Package</u></span></a>
     | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
     | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CAU.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
 <details>
