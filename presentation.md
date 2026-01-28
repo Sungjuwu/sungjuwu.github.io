@@ -21,7 +21,7 @@ National Central University, Taoyuan
 National Tsing Hua University, Hsinchu
 
 ## January
-**Chung-Ang University–Academia Sinica International Conference on Applied Economics**\
+<a href="https://sites.google.com/view/cau-academiasinicainternationa/%ED%99%88" target="_blank">**Chung-Ang University–Academia Sinica International Conference on Applied Economics**</a>\
 Academia Sinica, Taipei <br> <br>
 
 # 2025
