@@ -29,12 +29,12 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
 
 **Firm and Labor Adjustments to FDI Liberalization**, February 2023 (Updated January 2026) <br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
-<p>Accepted, <em><strong>Journal of International Economics</strong></em></p>
-    <a href="https://sungjuwu.github.io/documents/CNFDI_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a>
+<p>Forthcoming, <em><strong>Journal of International Economics</strong></em></p>
+    <a href="https://doi.org/10.1016/j.jinteco.2026.104227" target="_blank"><span style="color:#012169"><u>Published Version</u></span></a>
+    | <a href="http://dx.doi.org/10.2139/ssrn.4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
     | <a href="https://sungjuwu.github.io/documents/CNFDI_online_appendix.pdf" target="_blank"><span style="color:#012169"><u>Online Appendix</u></span></a>
     | <a href="https://data.mendeley.com/datasets/7whtznkdrc/2" target="_blank"><span style="color:#012169"><u>Replication Package</u></span></a>
-    | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
-    | <a href="https://citp.ac.uk/publications/firm-and-labour-adjustments-to-fdi-liberalisation" target="_blank"><span style="color:#012169"><u>CITP</u></span></a> | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CAU.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
+    | <a href="https://sungjuwu.github.io/documents/CNFDI_slides_CAU.pdf" target="_blank"><span style="color:#012169"><u>Slides</u></span></a>
 <details>
     <summary><span style="color:#012169"><u>Abstract</u></span></summary><p>This paper studies how liberalizing outward foreign direct investments affects
 manufacturers’ engagement in global production and their domestic workers’ labor market outcomes. Focusing on a liberalization policy in 2001 by the government of Taiwan that allowed 122 electronic products to be produced in China, we estimate its effect on Taiwanese electronic manufacturers and their domestic workers. Employing a matched difference-in-differences strategy, we find that the manufacturers targeted
