@@ -29,7 +29,7 @@ with <a href="https://ebehii.github.io/" target="_blank">Ebehi Iyoha</a>, <a hre
 
 **Firm and Labor Adjustments to FDI Liberalization**<br>
 <p>with <a href="https://economicsatntu.wixsite.com/ming-jen-lin" target="_blank">Ming-Jen Lin</a> and Yi-Ting Wang <br>
-<p><em><strong>Journal of International Economics</strong></em>, Volume 160 January (2026)</p>
+<p><em><strong>Journal of International Economics</strong></em>, Volume 160 March (2026)</p>
     <a href="https://doi.org/10.1016/j.jinteco.2026.104227" target="_blank"><span style="color:#012169"><u>Published Version</u></span></a>
     | <a href="http://dx.doi.org/10.2139/ssrn.4347657" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
     | <a href="https://sungjuwu.github.io/documents/CNFDI_online_appendix.pdf" target="_blank"><span style="color:#012169"><u>Online Appendix</u></span></a>
