@@ -17,7 +17,7 @@ National Chengchi University, Taipei
 National Central University, Taoyuan
 
 ## February
-**Seminar at the Department of Economics**\
+<a href="https://econ.site.nthu.edu.tw/p/132-1365-6190,c1159-1.php?Lang=zh-tw" target="_blank">**Seminar at the Department of Economics**</a>\
 National Tsing Hua University, Hsinchu
 
 ## January
