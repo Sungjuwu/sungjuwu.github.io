@@ -13,7 +13,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 National Chengchi University, Taipei
 
 ## March
-**Seminar at the Department of Economics**\
+<a href="https://ec.mgt.ncu.edu.tw/zh-TW/n/activity/2026-03-11%2015:18:21" target="_blank">**Seminar at the Department of Economics**</a>\
 National Central University, Taoyuan
 
 ## February
