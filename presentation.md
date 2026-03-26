@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2026
 
+## May
+<a href="https://www.economics.ca/CEA2026" target="_blank">**Annual Conference of the Canadian Economics Association (Bank of Canada Special Session on Entrepreneurship and Inequality)**</a>\
+Simon Fraser University, Vancouver
+
 ## April
 **Seminar at the Department of Economics**\
 National Chengchi University, Taipei
