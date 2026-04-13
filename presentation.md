@@ -17,7 +17,11 @@ Thuongmai University, Hanoi
 Simon Fraser University, Vancouver
 
 ## April
-**Seminar at the Department of Economics**\
+
+**NCKU-International Workshop on Empirical Economics**\
+National Cheng Kung University, Tainan
+
+<a href="https://econo.nccu.edu.tw/PageDoc/Detail?fid=6293&id=39927" target="_blank">**Seminar at the Department of Economics**</a>\
 National Chengchi University, Taipei
 
 ## March
