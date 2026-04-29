@@ -13,7 +13,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 Thuongmai University, Hanoi
 
 ## May
-<a href="https://www.economics.ca/CEA2026" target="_blank">**Annual Conference of the Canadian Economics Association (Bank of Canada Special Session on Entrepreneurship and Inequality)**</a>\
+<a href="https://www.economics.ca/CEA2026" target="_blank">**Annual Conference of the Canadian Economics Association (Bank of Canada Session on Entrepreneurship, Productivity and Inequality)**</a>\
 Simon Fraser University, Vancouver
 
 ## April
