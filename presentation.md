@@ -18,8 +18,9 @@ Simon Fraser University, Vancouver
 
 ## April
 
-**NCKU-International Workshop on Empirical Economics**\
+<a href="https://sungjuwu.github.io/documents/NCKU_International_Workshop_on_Empirical_Economics_2026.pdf" target="_blank">**NCKU-International Workshop on Empirical Economics**</a>\
 National Cheng Kung University, Tainan <br> <br>
+
 
 <a href="https://econo.nccu.edu.tw/PageDoc/Detail?fid=6293&id=39927" target="_blank">**Seminar at the Department of Economics**</a>\
 National Chengchi University, Taipei
