@@ -4,7 +4,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-**Welcome to my research page.**
+**Welcome to my research website.**
 
 I am an Assistant Research Fellow at the <a href="https://www.econ.sinica.edu.tw/" target="_blank"><span style="color:#012169"><u>Institute of Economics, Academia Sinica (IEAS)</u></span></a>. I was previously a Postdoctoral Research Fellow at University of Nottingham in 2024-2025 and completed a Ph.D. in economics at Duke University in 2024.
 
