@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2026
 
+## October
+**Seminar at the Institute of International Economics**\
+National Chung Cheng University, Chiayi
+
 ## July
 <a href="https://www.econometricsociety.org/regional-activities/schedule/2026/07/31/2026-Asia-Meeting-East-Southeast-Hanoi-Vietnam#home">**Asia Meeting of the Econometric Society, East & Southeast Asia**</a>\
 Thuongmai University, Hanoi
