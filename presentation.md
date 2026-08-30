@@ -8,6 +8,10 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 # 2026
 
+## November
+<a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session on U.S.-China Technology Rivalry)**</a>\
+Marriott Marquis Houston, Houston
+
 ## October
 **Seminar at the Institute of International Economics**\
 National Chung Cheng University, Chiayi
