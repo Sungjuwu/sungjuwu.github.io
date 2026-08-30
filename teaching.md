@@ -4,7 +4,7 @@ menuorder: 5
 menutitle: Teaching
 ---
 
-Here is my recent teaching experience with syllabus and student evaluation. 
+Here is my past teaching experience with syllabi and student evaluations. 
 
 ## Instructor
 **Statistical Foundation of Econometrics and Data Science**, Summer 2022 <br> 
