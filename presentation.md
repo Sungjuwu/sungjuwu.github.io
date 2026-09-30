@@ -13,6 +13,9 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 Marriott Marquis Houston, Houston
 
 ## October
+<a href="https://www.econ.sinica.edu.tw/asntu2026" target="_blank">**AS-NTU Young Economists Workshop**</a>\
+National Taiwan University, Taipei
+
 **Seminar at the Institute of International Economics**\
 National Chung Cheng University, Chiayi
 
