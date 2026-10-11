@@ -9,7 +9,7 @@ Please find my past and present work listed below.
 ## Working Papers
 
 **Exports in Disguise? Trade Rerouting and Production Relocation during the US-China Trade War**, <br> 
-May 2024 (Updated September 2026) Submitted <br>
+May 2024 (Updated September 2026) <br>
 with <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929" target="_blank">Ebehi Iyoha</a>, <a href="https://sites.duke.edu/malesky/" target="_blank">Edmund Malesky</a>, and <a href="https://www.jayawen.com/" target="_blank">Jaya Wen</a> <br> 
 <a href="https://sungjuwu.github.io/documents/Vietnam_rerouting_paper.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> | <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=65663" target="_blank"><span style="color:#012169"><u>HBS WP</u></span></a> | <a href="https://www.youtube.com/watch?v=bqAhz1JFx4Q" target="_blank"><span style="color:#012169"><u>Video</u></span></a> <br>
 <details>
@@ -17,7 +17,7 @@ with <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929" targ
 use rose primarily among firms owned by investors from mainland China or Hong Kong, including incumbent and new exporters. The growth in these channels offset 13% of the decline in China’s direct share of US imports. Vietnam’s growing intermediary role therefore reflected both tariff circumvention and expanded Vietnamese production using Chinese inputs, showing how third countries can sustain supply-chain links even as direct trade declines.</p>
 </details> <br>
 
-**Foreign Profit Repatriation and the Welfare Responses to the US-China Trade War: Evidence from Manufacturers in Vietnam**, November 2023 (Updated October 2026) Submitted <br>
+**Foreign Profit Repatriation and the Welfare Responses to the US-China Trade War: Evidence from Manufacturers in Vietnam**, November 2023 (Updated October 2026) <br>
 <a href="https://sungjuwu.github.io/documents/Best_paper_award_CITP_2025.pdf" target="_blank"><span style="color:#012169"><u>L. Alan Winters ECR Award</u></span></a> for Best Paper at the <a href="https://citp.ac.uk/academic-conference-2025" target="_blank">CITP Academic Conference</a> <br>
 <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> 
 | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5487488" target="_blank"><span style="color:#012169"><u>SSRN</u></span></a>
