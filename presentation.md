@@ -16,7 +16,7 @@ Marriott Marquis Houston, Houston
 <a href="https://www.econ.sinica.edu.tw/asntu2026" target="_blank">**AS-NTU Young Economists Workshop**</a>\
 National Taiwan University, Taipei <br> <br>
 
-<a href="https://econ.ccu.edu.tw/p/406-1117-94618,r2432.php?Lang=zh-tw">**Seminar at the Institute of International Economics**\
+<a href="https://econ.ccu.edu.tw/p/406-1117-94618,r2432.php?Lang=zh-tw">**Seminar at the Institute of International Economics**</a>\
 National Chung Cheng University, Chiayi
 
 ## July
