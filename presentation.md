@@ -12,6 +12,9 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 <a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session on U.S.-China Technology Rivalry)**</a>\
 Marriott Marquis Houston, Houston
 
+<a href="https://www.econ.sinica.edu.tw/posts/8468">**Workshop on Macroeconomics & Structural Transformation**</a>\
+Academia Sinica, Taipei
+
 ## October
 <a href="https://www.econ.sinica.edu.tw/asntu2026" target="_blank">**AS-NTU Young Economists Workshop**</a>\
 National Taiwan University, Taipei <br> <br>
@@ -35,7 +38,6 @@ Simon Fraser University, Vancouver
 
 <a href="https://sungjuwu.github.io/documents/NCKU_International_Workshop_on_Empirical_Economics_2026.pdf" target="_blank">**NCKU-International Workshop on Empirical Economics**</a>\
 National Cheng Kung University, Tainan <br> <br>
-
 
 <a href="https://econo.nccu.edu.tw/PageDoc/Detail?fid=6293&id=39927" target="_blank">**Seminar at the Department of Economics**</a>\
 National Chengchi University, Taipei
