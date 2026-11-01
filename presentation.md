@@ -10,7 +10,7 @@ Here is a list of my conference and seminar presentations. <br> <br> <br>
 
 ## November
 <a href="https://southerneconomic.org/conference/" target="_blank">**Annual Meeting of the Southern Economic Association (IEFS Session on U.S.-China Technology Rivalry)**</a>\
-Marriott Marquis Houston, Houston
+Marriott Marquis Houston, Houston <br> <br>
 
 <a href="https://www.econ.sinica.edu.tw/posts/8468">**Workshop on Macroeconomics & Structural Transformation**</a>\
 Academia Sinica, Taipei
